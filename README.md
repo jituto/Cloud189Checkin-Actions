@@ -12,11 +12,6 @@
 1）删除你的项目（项目 -> Settings -> Delete this repository），然后重新部署自动签到（只有这样才能清理掉build所有记录）！
 
 2）赶紧修改天翼云盘的密码！
-
-
-
-
-# Cloud189Checkin
 天翼云盘每日签到一次，抽奖2次  
 使用方法  
 1.测试环境为python3.7.6,自行安装python3  
